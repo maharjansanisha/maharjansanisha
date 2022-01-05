@@ -32,4 +32,4 @@
 [twitter]: https://www.twitter.com/sanishaarmy
 [facebook]: https://www.facebook.com/sanishaarmy
 [instagram]: https://instagram.com/sansho.ok/
-[snapchat]: https:/snapchat.com/nochukoo/
+[snapchat]: https://snapchat.com/nochukoo/
