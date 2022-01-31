@@ -1,6 +1,6 @@
 # Hello! This is Sanisha Maharjan
 
-## View Count
+## Profile View Count
 <img src="https://profile-counter.glitch.me/therealsanisboring/count.svg">
 
 ## Connect with me
