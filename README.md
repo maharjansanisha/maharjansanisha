@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sanisha Maharjan
+# Hello! This is Sanisha Maharjan
 
 ## View Count
 <img src="https://profile-counter.glitch.me/therealsanisboring/count.svg">
@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter">][twitter]
 [<img src="https://img.shields.io/badge/-Snapchat-05122A?style=flat&logo=snapchat">][snapchat]
 
-## Tech Stack:
+## Tech Stack
 
 ![GNU Octave](https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -29,7 +29,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsanisboring&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=therealsanisboring&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-[twitter]: https://www.twitter.com/sanishaarmy
-[facebook]: https://www.facebook.com/sanishaarmy
+[twitter]: https://www.twitter.com/sanshook
+[facebook]: https://www.facebook.com/sanishoook
 [instagram]: https://instagram.com/sansho.ok/
 [snapchat]: https://snapchat.com/nochukoo/
