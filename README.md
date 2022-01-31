@@ -30,6 +30,6 @@
 
 
 [twitter]: https://www.twitter.com/sanshook
-[facebook]: https://www.facebook.com/sanishoook
+[facebook]: https://www.facebook.com/sanshoook
 [instagram]: https://instagram.com/sansho.ok/
 [snapchat]: https://snapchat.com/nochukoo/
