@@ -24,9 +24,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-| ![Sanisha's github stats](https://github-readme-stats.vercel.app/api?username=therealsanisboring&show_icons=true&theme=tokyonight) | ![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=therealsanisboring&theme=tokyonight) |
+| ![Sanisha's github stats](https://github-readme-stats.vercel.app/api?username=sansocool&show_icons=true&theme=tokyonight) | ![Sanisha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sansocool&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsanisboring&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=therealsanisboring&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sansocool&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sansocool&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 [twitter]: https://www.twitter.com/sanshook
