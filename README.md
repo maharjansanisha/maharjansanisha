@@ -1,15 +1,4 @@
 # Hello! This is Sanisha Maharjan
-
-## Profile View Count
-<img src="https://profile-counter.glitch.me/therealsanisboring/count.svg">
-
-## Connect with me
-
-[<img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook">][facebook]
-[<img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">][instagram]
-[<img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter">][twitter]
-[<img src="https://img.shields.io/badge/-Snapchat-05122A?style=flat&logo=snapchat">][snapchat]
-
 ## Tech Stack
 
 ![GNU Octave](https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave)&nbsp;
