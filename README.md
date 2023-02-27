@@ -1,4 +1,4 @@
-# Hello! This is Sanisha Maharjan
+# Hi! This is Sanisha Maharjan
 ## Tech Stack
 
 ![GNU Octave](https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave)&nbsp;
