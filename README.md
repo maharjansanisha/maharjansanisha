@@ -22,7 +22,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharjansanisha&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharjansanisha&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharjansanisha&theme=tokyonight&hide=html&langs_count=10) 
 
 ![Github Reward](https://github-profile-trophy.vercel.app/?username=maharjansanisha&theme=tokyonight)
 
