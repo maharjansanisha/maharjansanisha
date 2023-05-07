@@ -18,13 +18,13 @@
     </a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maharjansanisha&show_icons=true&theme=tokyonight&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=maharjansanisha&show_icons=true&theme=midnight-purple&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharjansanisha&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharjansanisha&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharjansanisha&theme=tokyonight&hide=html&langs_count=10) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharjansanisha&theme=midnight-purple&hide=html&langs_count=10) 
 
-![Github Reward](https://github-profile-trophy.vercel.app/?username=maharjansanisha&theme=tokyonight)
+![Github Reward](https://github-profile-trophy.vercel.app/?username=maharjansanisha&theme=dark_lover)
 
 
 [twitter]: https://www.twitter.com/sanshook
