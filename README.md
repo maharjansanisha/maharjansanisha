@@ -1,4 +1,4 @@
-# Hi! This is Sanisha Maharjan
+![image](https://github.com/maharjansanisha/maharjansanisha/assets/80835360/726f9bfd-3f58-4910-9f2c-35a43287e33a)# Hi! This is Sanisha Maharjan
 ## Tech Stack
 
 ![GNU Octave](https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave)&nbsp;
@@ -27,7 +27,5 @@
 ![Github Reward](https://github-profile-trophy.vercel.app/?username=maharjansanisha&theme=dark_lover)
 
 
-[twitter]: https://www.twitter.com/sanshook
-[facebook]: https://www.facebook.com/sanshoook
-[instagram]: https://instagram.com/sansho.ok/
-[snapchat]: https://snapchat.com/nochukoo/
+<figure><embed src="https://wakatime.com/share/@af3ea727-76b2-498c-b8fc-21f599b2a711/fe14b0a8-092c-48d8-abdc-e33bfb9d2652.svg"></embed></figure>
+
