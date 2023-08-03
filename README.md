@@ -27,5 +27,3 @@
 ![Github Reward](https://github-profile-trophy.vercel.app/?username=maharjansanisha&theme=dark_lover)
 
 
-<figure><embed src="https://wakatime.com/share/@af3ea727-76b2-498c-b8fc-21f599b2a711/fe14b0a8-092c-48d8-abdc-e33bfb9d2652.svg"></embed></figure>
-
