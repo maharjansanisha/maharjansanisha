@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** who lives at the intersection of code, design and
 Beyond the screen, I'm a **creative writer** who finds stories in the everyday, and a **photographer** who chases light and fleeting moments. I believe the best digital experiences are crafted by people who understand both the technical and the human side of things.
 
 - 🔭 Currently working on Mobile Application and creative side projects
-- 🎨 Passionate about Product Design with 
+- 🎨 Passionate about Product Design 
 - 🌱 Always learning and building something new
 
 ---
