@@ -50,27 +50,26 @@ Beyond the screen, I'm a **creative writer** who finds stories in the everyday, 
 
 <div align="center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maharjansanisha&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maharjansanisha&theme=midnight-purple&hide=html&langs_count=10&hide_border=true&layout=compact)
+| ![Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maharjansanisha&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maharjansanisha&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laracmiranda&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharjansanisha&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=maharjansanisha&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maharjansanisha&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3)
 
-</div>
+</div> -->
 
 ---
 
 ### 🐾 Contributions
-
-<!-- <div align="center">
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/maharjansanisha/maharjansanisha/output/pacman-contribution-graph.svg)
-
-</div> -->
 
 <!-- Pacman -->
 <picture>
