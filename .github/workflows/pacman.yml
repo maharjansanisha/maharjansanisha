@@ -12,12 +12,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution graph snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman contribution graph
+        uses: Platane/snk@v3
         with:
           github_user_name: maharjansanisha
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github-dark&type=pacman
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
