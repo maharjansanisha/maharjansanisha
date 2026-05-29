@@ -66,11 +66,18 @@ Beyond the screen, I'm a **creative writer** who finds stories in the everyday, 
 
 ### 🐾 Contributions
 
-<div align="center">
+<!-- <div align="center">
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/maharjansanisha/maharjansanisha/output/pacman-contribution-graph.svg)
 
-</div>
+</div> -->
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maharjansanisha/maharjansanisha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maharjansanisha/maharjansanisha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maharjansanisha/maharjansanisha/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -78,5 +85,5 @@ Beyond the screen, I'm a **creative writer** who finds stories in the everyday, 
 <br/>
 
 <div align="center">
-  <i>Thanks for stopping by! ✨</i>
+  <i>Thanks for stopping by :) ✨</i>
 </div>
